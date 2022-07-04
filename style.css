@@ -8,23 +8,27 @@ body{
     }
 section{
     display: flex;
+
 }
 .helf-with{
     width: 50%;
     padding-left: 5%;
+    margin-top: 50px;
 }
 .helf-with img{
     width: 80%;
 }
 .orange{
-    color: orange;
+    color: blueviolet;
     font-family: 'Lobster', cursive;
+    font-weight: 700;
 }
 .link{
     color: aliceblue;
-    background-image: linear-gradient(orange, tomato);
-    padding: 10px 40px;
-    border-radius: 5px;  
+    background-image: linear-gradient(blue, tomato);
+    padding: 10px 30px;
+    border-radius: 10px; 
+    text-decoration: none;
 }
 .top-benner{
     background-image: url(cer1.png);
