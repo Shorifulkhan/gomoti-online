@@ -1,0 +1,33 @@
+body{
+    font-family: 'Signika', sans-serif;
+    margin: 0;
+}
+    h1{
+        
+        font-size: 60px;
+    }
+section{
+    display: flex;
+}
+.helf-with{
+    width: 50%;
+    padding-left: 5%;
+}
+.helf-with img{
+    width: 80%;
+}
+.orange{
+    color: orange;
+    font-family: 'Lobster', cursive;
+}
+.link{
+    color: aliceblue;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;  
+}
+.top-benner{
+    background-image: url(cer1.png);
+    background-repeat: no-repeat;
+    
+}
